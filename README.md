@@ -33,5 +33,5 @@ An AI-powered web application built with **Streamlit** that extracts transcripts
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/youtube-ai-summarizer.git](https://github.com/YOUR_USERNAME/youtube-ai-summarizer.git)
-cd youtube-ai-summarizer
+git clone [https://github.com/mariaroselind/youtube-summarizer.git](https://github.com/mariaroselind/youtube-summarizer.git)
+cd youtube-summarizer
