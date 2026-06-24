@@ -5,7 +5,7 @@ An AI-powered web application built with **Streamlit** that extracts transcripts
 ---
 
 ## 🚀 Live Demo
-🔗 **[Insert your live Streamlit Cloud URL here]**
+🔗 **[Launch Live Web Application](https://youtube-summarizer26.streamlit.app/)**
 
 ---
 
